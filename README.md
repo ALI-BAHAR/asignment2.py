@@ -1,4 +1,4 @@
-# asignment2.py
+# assignment2.py
 # Hierarchical Text Summarization
 
 ## Project Description
