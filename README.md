@@ -2,7 +2,7 @@
 # Hierarchical Text Summarization
 
 ## Project Description
-This project implements hierarchical text summarization using NLTK (Natural Language Toolkit) in Python. The goal is to summarize long texts by segmenting them and reducing each segment using frequency-based sentence scoring.
+This project implements hierarchical text summarization using NLTK in Python. The goal is to summarize long texts by segmenting them and reducing each segment using frequency-based sentence scoring.
 
 ### Key Features:
 - **Frequency-based Sentence Selection**: Sentences are scored based on word frequency, and the most relevant ones are selected for the summary.
